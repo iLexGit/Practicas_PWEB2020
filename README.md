@@ -5,7 +5,7 @@ Creator:
           Alejandro Martí
 
 Co-owners:
-          Daniel Gonzalez
+          Daniel Gonzalez /
           Marco Antonio Perez
           
 
